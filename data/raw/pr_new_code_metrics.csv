@@ -1,0 +1,18 @@
+Branch;PR Key;New Lines;Lines to Cover;Code Smells;New Duplication %;New Coverage %;New Technical Debt (min);Complexity;Cognitive Complexity;Entwicklungszeit(Min);Test Success Rate %;Test Failures;Test Count;Functions (Overall);Classes (Overall);Statements (Overall)
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/LearningBlock;12;1280;136;12;0.0;68.9;87;31;7;17;70.0;6;20;26;12;90
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/CommentOnBlock;13;2724;270;22;0.0;82.8;148;63;14;17;96.2;2;53;51;22;192
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/ExportReviewKatatlog;14;1541;231;19;0.0;85.0;130;66;58;10;67.9;9;28;26;8;194
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/NotifyReviewers;15;307;88;12;3.91;9.6;87;64;71;20;70.0;6;20;18;8;264
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/CommentOnBlock;16;3898;241;38;0.82093;81.1;332;80;22;20;75.9;21;87;63;19;195
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/ExportReviewKatatlog;17;1049;67;24;0.0;98.7;126;68;54;10;84.8;5;33;44;3;216
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/LearningBlock;18;2122;130;20;0.0;95.6;174;43;15;20;100.0;0;48;33;11;105
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/NotifyReviewers;19;1230;142;12;2.6;83.1;82;68;65;10;96.2;1;26;24;7;293
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/ExportReviewKatatlog;20;518;145;6;0.0;74.1;68;100;80;10;29.4;12;17;56;4;266
+Bachlorarbeit/testcursor/VSCode/Cursor/Zero-shot/LearningBlock;21;704;94;12;0.0;84.5;106;38;13;5;54.5;5;11;24;11;67
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/LearningBlock;22;718;114;17;6.13;77.9;91;52;12;7;83.3;2;12;40;10;91
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/NotifyReviewers;23;525;116;9;1.33;37.3;70;75;65;20;100.0;0;2;28;12;267
+ Bachlorarbeit/testcursor/VSCode/Cursor/Zero-shot/ExportReviewKatatlog;24;880;220;10;0.0;74.9;78;113;88;10;90.9;1;11;51;8;287
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/ExportReviewKatatlog;25;192;18;2;0.0;100.0;25;55;44;300;100.0;0;14;28;2;171
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/NotifyReviewers;26;1370;165;4;0.0;87.7;45;79;65;600;100.0;0;29;30;12;302
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/LearningBlock;27;1139;116;50;0.0;95.6;202;36;14;420;100.0;0;36;26;10;97
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/CommentOnBlock;28;2694;183;95;0.0;91.7;337;61;22;300;98.9;1;93;41;17;151

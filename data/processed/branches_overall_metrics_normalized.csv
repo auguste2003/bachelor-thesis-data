@@ -1,0 +1,20 @@
+Branch;Code Smells;Complexity;Cognitive Complexity;Duplication %;NCLOC;Tests;Test Success Rate %;Test Failures;Coverage %;Functions;Smells_per_KLOC;CC_per_KLOC;CogC_per_Function;Test_Density_per_KLOC;Variant;Feature
+copilot-claude45-few-learningblock;186;212;151;4.2;2505;97;100.0;0;58.7;125;74.25;84.63;1.21;38.72;Copilot-Few;LearningBlock
+main;166;169;136;5.5;2073;49;100.0;0;51.6;92;80.08;81.52;1.48;23.64;Main;Main
+reference-learningblock;216;207;150;4.7;2432;85;100.0;0;57.8;120;88.82;85.12;1.25;34.95;Reference;LearningBlock
+copilot-claude45-zero-learningblock;178;200;143;4.6;2487;69;91.3;6;54.3;118;71.57;80.42;1.21;27.74;Copilot-Zero;LearningBlock
+cursor-auto-zero-learningblock;178;207;149;4.9;2378;60;91.7;5;55.7;116;74.85;87.05;1.28;25.23;Cursor-Zero;LearningBlock
+cursor-auto-few-learningblock;183;221;148;6.1;2398;61;96.7;2;55.4;132;76.31;92.16;1.12;25.44;Cursor-Few;LearningBlock
+reference-commentonblock;262;233;158;4.3;2684;142;100.0;0;60.2;137;97.62;86.81;1.15;52.91;Reference;CommentOnBlock
+copilot-claude45-zero-commentonblock;188;232;150;3.9;2858;102;98.0;2;59.9;143;65.78;81.18;1.05;35.69;Copilot-Zero;CommentOnBlock
+copilot-claude45-few-commentonblock;204;249;158;4.2;2866;136;84.6;21;59.2;155;71.18;86.88;1.02;47.45;Copilot-Few;CommentOnBlock
+reference-notifyreviewer;169;204;154;4.6;2456;78;100.0;0;58.4;111;68.81;83.06;1.39;31.76;Reference;NotifyReviewer
+copilot-claude45-zero-notifyreviewer;177;188;160;5.3;2281;49;100.0;0;46.6;98;77.6;82.42;1.63;21.48;Copilot-Zero;NotifyReviewer
+copilot-claude45-few-notifyreviewer;175;193;154;5.6;2351;75;33.3;50;16.6;105;74.44;82.09;1.47;31.9;Copilot-Few;NotifyReviewer
+cursor-auto-few-notifyreviewer;175;200;154;5.0;2353;51;100.0;0;49.5;109;74.37;85.0;1.41;21.67;Cursor-Few;NotifyReviewer
+cursor-auto-zero-exportreviewcatalog;172;241;184;4.8;2447;60;98.3;1;57.5;117;70.29;98.49;1.57;24.52;Cursor-Zero;ExportReviewCatalog
+reference-exportreviewcatalog;164;171;137;5.5;2094;53;100.0;0;53.1;94;78.32;81.66;1.46;25.31;Reference;ExportReviewCatalog
+copilot-claude45-zero-exportreviewcatalog;185;235;194;4.5;2542;77;88.3;9;60.7;118;72.78;92.45;1.64;30.29;Copilot-Zero;ExportReviewCatalog
+cursor-auto-few-exportreviewcatalog;166;216;173;5.1;2275;58;79.3;12;55.5;111;72.97;94.95;1.56;25.49;Cursor-Few;ExportReviewCatalog
+copilot-claude45-few-exportreviewcatalog;189;184;147;5.2;2168;74;93.2;5;56.4;99;87.18;84.87;1.48;34.13;Copilot-Few;ExportReviewCatalog
+cursor-auto-zero-notifyreviewer;166;169;136;5.5;2073;49;100.0;0;51.6;92;80.08;81.52;1.48;23.64;Cursor-Zero;NotifyReviewer

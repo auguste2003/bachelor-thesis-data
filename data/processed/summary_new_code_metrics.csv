@@ -1,0 +1,8 @@
+;New_Smells_per_KLOC;New_Smells_per_KLOC;New_Smells_per_KLOC;TD_per_LOC;TD_per_LOC;TD_per_LOC;New_CC_per_KLOC;New_CC_per_KLOC;New_CC_per_KLOC;New_CogC_per_Function;New_CogC_per_Function;New_CogC_per_Function;New Duplication %;New Duplication %;New Duplication %;New Coverage %;New Coverage %;New Coverage %;Test Success Density %;Test Success Density %;Test Success Density %;Test_Density_per_KLOC;Test_Density_per_KLOC;Test_Density_per_KLOC
+;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std
+Variant;;;;;;;;;;;;;;;;;;;;;;;;
+Copilot-Few;12.955;9.755;6.6184;0.0885;0.0836;0.0226;40.22;37.9;23.2268;1.185;0.84;1.0901;0.8552;0.4105;1.2259;89.625;89.35;8.8187;89.225;90.5;10.9831;24.385;22.47;4.7597
+Copilot-Zero;17.22;10.855;14.688;0.1225;0.0762;0.108;74.6625;33.525;89.662;1.6775;1.25;1.7688;0.9775;0.0;1.955;61.575;75.85;35.3755;58.525;68.95;41.0859;13.3125;16.895;9.0173
+Cursor-Few;17.4667;17.14;6.0566;0.1304;0.1313;0.0034;136.11;142.86;60.5976;1.35;1.43;1.0124;2.4867;1.33;3.2245;63.1;74.1;22.4241;70.9;83.3;36.8973;17.78;16.71;14.5346
+Cursor-Zero;14.205;14.205;4.0234;0.1196;0.1196;0.0438;91.195;91.195;52.63;1.135;1.135;0.8415;0.0;0.0;0.0;79.7;79.7;6.7882;72.7;72.7;25.7387;14.06;14.06;2.2062
+Reference;22.81;22.74;19.1519;0.1191;0.1301;0.0628;100.0125;45.11;125.1403;1.1825;1.035;0.8308;0.0;0.0;0.0;92.6;91.35;5.3085;100.0;100.0;0.0;39.7275;32.41;22.7895

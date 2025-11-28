@@ -1,0 +1,20 @@
+Branch;Code Smells;Bugs;Vulnerabilities;Security Hotspots;Complexity;Cognitive Complexity;Duplication %;NCLOC;Comment Density %;Tests;Test Success Rate %;Test Failures;Test Errors;Coverage %;Functions;Classes;Statements
+main;166;0;0;3;169;136;5.5;2073;6.0;49;100.0;0;0;51.6;92;59;569
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/CommentOnBlock;188;0;0;3;232;150;3.9;2858;9.8;102;98.0;2;0;59.9;143;81;761
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/ExportReviewKatatlog;189;0;0;3;184;147;5.2;2168;7.9;74;93.2;5;0;56.4;99;59;622
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/ExportReviewKatatlog;185;0;0;3;235;194;4.5;2542;7.3;77;88.3;9;0;60.7;118;67;763
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/LearningBlock;186;0;0;3;212;151;4.2;2505;13.1;97;100.0;0;0;58.7;125;70;674
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/NotifyReviewers;177;0;0;3;188;160;5.3;2281;6.4;49;100.0;0;0;46.6;98;64;637
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Zero-shot/LearningBlock;178;0;0;3;200;143;4.6;2487;7.6;69;91.3;6;0;54.3;118;71;659
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/ExportReviewKatatlog;166;0;0;3;216;173;5.1;2275;5.4;58;79.3;12;0;55.5;111;60;672
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/CommentOnBlock;204;0;0;3;249;158;4.2;2866;16.6;136;84.6;21;0;59.2;155;78;764
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Few-Shot/NotifyReviewers;175;0;0;3;193;154;5.6;2351;7.2;75;33.3;50;0;16.6;105;64;668
+Bachlorarbeit/testcursor/VSCode/Cursor/Zero-shot/LearningBlock;178;0;0;3;207;149;4.9;2378;5.3;60;91.7;5;0;55.7;116;70;636
+Bachlorarbeit/testcursor/VSCode/Cursor/Zero-shot/NotifyReviewers;166;0;0;3;169;136;5.5;2073;6.0;49;100.0;0;0;51.6;92;59;569
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/LearningBlock;183;0;0;3;221;148;6.1;2398;5.3;61;96.7;2;0;55.4;132;69;660
+Bachlorarbeit/testcursor/VSCode/Cursor/Few-shot/NotifyReviewers;175;0;0;3;200;154;5.0;2353;5.8;51;100.0;0;0;49.5;109;69;642
+Bachlorarbeit/testcursor/VSCode/Cursor/Zero-shot/ExportReviewKatatlog;172;0;0;3;241;184;4.8;2447;4.9;60;98.3;1;0;57.5;117;64;720
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/CommentOnBlock;261;0;0;3;230;158;4.3;2645;7.3;142;96.5;5;0;60.0;133;76;720
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/ExportReviewKatatlog;164;0;0;3;171;137;5.5;2094;6.4;53;100.0;0;0;53.1;94;59;577
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/NotifyReviewers;169;0;0;3;204;154;4.6;2456;7.3;78;100.0;0;0;58.4;111;69;677
+Bachlorarbeit/testcopilot/VSCode/Claude-45/Pair-Programming/LearningBlock;216;0;0;3;205;150;4.8;2412;6.7;85;95.3;4;0;57.9;118;69;666

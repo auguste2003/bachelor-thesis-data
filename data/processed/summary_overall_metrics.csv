@@ -1,0 +1,8 @@
+;Smells_per_KLOC;Smells_per_KLOC;Smells_per_KLOC;CC_per_KLOC;CC_per_KLOC;CC_per_KLOC;CogC_per_Function;CogC_per_Function;CogC_per_Function;Duplication %;Duplication %;Duplication %;Test Success Rate %;Test Success Rate %;Test Success Rate %;Coverage %;Coverage %;Coverage %;Test_Density_per_KLOC;Test_Density_per_KLOC;Test_Density_per_KLOC
+;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std;mean;median;std
+Variant;;;;;;;;;;;;;;;;;;;;;
+Copilot-Few;76.76;74.34;7.1;84.62;84.75;1.96;1.3;1.34;0.22;4.8;4.7;0.71;77.78;88.9;30.31;47.72;57.55;20.79;38.05;36.42;6.88
+Copilot-Zero;71.93;72.18;4.86;84.12;81.8;5.62;1.38;1.42;0.3;4.57;4.55;0.57;94.4;94.65;5.51;55.38;57.1;6.51;28.8;29.02;5.9
+Cursor-Few;74.55;74.37;1.68;90.7;92.16;5.13;1.36;1.41;0.22;5.4;5.1;0.61;92.0;96.7;11.12;53.47;55.4;3.44;24.2;25.44;2.19
+Cursor-Zero;75.07;74.85;4.9;89.02;87.05;8.65;1.44;1.48;0.15;5.07;4.9;0.38;96.67;98.3;4.38;54.93;55.7;3.02;24.46;24.52;0.8
+Reference;83.39;83.57;12.52;84.16;84.09;2.27;1.31;1.32;0.14;4.78;4.65;0.51;100.0;100.0;0.0;57.38;58.1;3.03;36.23;33.36;11.82
