@@ -110,8 +110,9 @@ This data is part of a bachelor thesis and is provided for academic purposes.
 
 ## Author
 
-Auguste Sonfack Dongmo
+Auguste Sonfack Atoundem
 
 ## Related
 
 For the complete thesis and detailed methodology, see Chapter 5 of the thesis document.
+
